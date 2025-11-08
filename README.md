@@ -1,7 +1,7 @@
 ## Hey, I’m Miguel Aragão!
 
-- 🎓 **Software Engineering student at UNINTER – International University Center**  
-- 💻 Currently taking **Harvard’s CS50** to strengthen my computer science foundations
+- 🎓 **Software Engineering student at UNINTER – International University Center.**
+- 💻 Currently taking **Harvard’s CS50** to strengthen my computer science foundations.
 - 🚀 Starved for evolution and new knowledge!!!
 - 📪 However, if you would like further information, please contact: aragao.academico@gmail.com
 
