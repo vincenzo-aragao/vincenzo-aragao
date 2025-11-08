@@ -1,4 +1,4 @@
-## Hey, I’m Miguel Aragão
+## Hey, I’m Miguel Aragão!
 
 - 🎓 **Software Engineering student at UNINTER – International University Center**  
 - 💻 Currently taking **Harvard’s CS50** to strengthen my computer science foundations
