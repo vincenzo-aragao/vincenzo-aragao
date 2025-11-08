@@ -1,7 +1,5 @@
 ## Hey, I’m Miguel Aragão
 
-Here are some ideas to get you started:
-
 - 🎓 **Software Engineering student at UNINTER – International University Center**  
 - 💻 Currently taking **Harvard’s CS50** to strengthen my computer science foundations
 - 🚀 Starved for evolution and new knowledge!!!
