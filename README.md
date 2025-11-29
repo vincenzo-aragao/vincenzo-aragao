@@ -5,20 +5,6 @@
 - 🚀 Starved for evolution and new knowledge!!!
 - 📪 However, if you would like further information, please contact: aragao.academico@gmail.com
 
-## 🔗 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vincenzo-aragao" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Aragão-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:aragao.academico@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-aragao.academico%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/aragao_miguel" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@aragao_miguel-pink?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
 ## 🛠️ Tech Stack
 
 <div style="display: inline-block;"><br>
@@ -66,3 +52,18 @@
 
 </div>
 
+## 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vincenzo-aragao" target="_blank">
+    <img alt="LinkedIn" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
+
+  <a href="mailto:aragao.academico@gmail.com" target="_blank">
+    <img alt="Email" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
+  </a>
+
+  <a href="https://instagram.com/aragao_miguel" target="_blank">
+    <img alt="Instagram" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"/>
+  </a>
+</p>
