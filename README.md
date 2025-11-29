@@ -50,7 +50,19 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vincenzo-aragao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzo-aragao&layout=compact&langs_count=8&theme=dracula" />
-</p>
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img 
+       width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=vincenzo-aragao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+  />
+
+  <!-- Most Used Languages -->
+  <img 
+       width="48%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzo-aragao&layout=compact&langs_count=8&theme=dracula" 
+  />
+
+</div>
+
