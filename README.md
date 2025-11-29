@@ -54,16 +54,24 @@
 
 ## 🔗 Connect with me
 
+## Connect with me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/vincenzo-aragao" target="_blank">
-    <img alt="LinkedIn" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-  </a>
 
-  <a href="mailto:aragao.academico@gmail.com" target="_blank">
-    <img alt="Email" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
-  </a>
-
+  <!-- Instagram -->
   <a href="https://instagram.com/aragao_miguel" target="_blank">
-    <img alt="Instagram" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+
+  <!-- Gmail -->
+  <a href="mailto:aragao.academico@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-30302F?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vincenzo-aragao" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
 </p>
+
