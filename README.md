@@ -77,9 +77,9 @@ I'm actively working on new projects that will be published here soon.
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vincenzo-aragao&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vincenzo-aragao&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzo-aragao&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzo-aragao&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
 </p>
 
 ---
@@ -88,7 +88,7 @@ I'm actively working on new projects that will be published here soon.
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="https://www.linkedin.com/in/vincenzo-aragao">
 <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
 </a>
 
