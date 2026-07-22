@@ -1,75 +1,93 @@
-## Hey, I’m Miguel Aragão!
+<h1 align="center">Hi, I'm Miguel Vincenzo 👋</h1>
 
-- 🎓 **Software Engineering student at UNINTER – International University Center.**
-- 💻 Currently taking **Harvard’s CS50** to strengthen my computer science foundations.
-- 🚀 Starved for evolution and new knowledge!!!
-- 📪 However, if you would like further information, please contact: aragao.academico@gmail.com
+<h3 align="center">
+Software Engineering Student • Cybersecurity • Infrastructure, Networks & Cloud
+</h3>
 
-## 🛠️ Tech Stack
-
-<div style="display: inline-block;"><br>
-
-  <!-- Core Web -->
-  <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Miguel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Miguel-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Miguel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-  <!-- Backend & DB -->
-  <img align="center" alt="Miguel-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Miguel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Miguel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-  <!-- Tools & Platforms -->
-  <img align="center" alt="Miguel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Miguel-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Miguel-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Miguel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Miguel-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img align="center" alt="Miguel-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Miguel-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img 
-       width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=vincenzo-aragao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
-  />
-
-  <!-- Most Used Languages -->
-  <img 
-       width="48%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzo-aragao&layout=compact&langs_count=8&theme=dracula" 
-  />
-
-</div>
-
-## 🔗 Connect with me
-
-<p align="left">
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/aragao_miguel" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:aragao.academico@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-30302F?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/vincenzo-aragao" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
+<p align="center">
+Building secure, practical and scalable software while continuously learning and improving.
 </p>
 
+---
+
+## 👨‍💻 About Me
+
+I'm a Software Engineering student from Brazil passionate about technology and solving real-world problems through software.
+
+Currently, I'm developing practical web applications while strengthening my Computer Science foundations through Harvard's CS50. At the same time, I'm expanding my knowledge in Cybersecurity, Infrastructure, Networking and Cloud Computing.
+
+I enjoy understanding not only how software is built, but also how systems, networks and infrastructure work together to create secure and reliable solutions.
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- 💻 Developing practical web applications
+- 🏛️ Building systems for real-world projects
+- 📚 Studying Software Engineering at UNINTER
+- 🎓 Strengthening Computer Science fundamentals with Harvard's CS50x
+- 🔐 Learning Cybersecurity
+- ☁️ Exploring Cloud Computing
+- 🖥️ Improving my Linux and Infrastructure skills
+
+---
+
+## 🛠 Tech Stack
+
+### Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,mysql" />
+</p>
+
+### Infrastructure & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,python" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+Here are some of the projects that represent my learning journey and technical growth.
+
+More projects coming soon...
+
+---
+
+## 📜 Certifications
+
+- Cisco Introduction to Cybersecurity
+- Cisco Ethical Hacker
+- Harvard CS50x *(In Progress)*
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vincenzo-aragao&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzo-aragao&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p>
+<a href="https://www.linkedin.com/in/vincenzo-aragao">LinkedIn</a> •
+<a href="mailto:aragao.academico@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+Always building. Always learning.
+</p>
