@@ -58,32 +58,44 @@ I enjoy understanding not only how software is built, but also how systems, netw
 
 Here are some of the projects that represent my learning journey and technical growth.
 
-More projects coming soon...
+🚧 This section is currently under construction.
+
+I'm actively working on new projects that will be published here soon.
 
 ---
 
 ## 📜 Certifications
 
-- Cisco Introduction to Cybersecurity
-- Cisco Ethical Hacker
-- Harvard CS50x *(In Progress)*
+🏅 Cisco Introduction to Cybersecurity
+
+🏅 Cisco Ethical Hacker
+
+🎓 Harvard CS50x (In Progress)
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vincenzo-aragao&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzo-aragao&layout=compact&theme=transparent&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vincenzo-aragao&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzo-aragao&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
 ## 🤝 Connect with Me
 
-<p>
-<a href="https://www.linkedin.com/in/vincenzo-aragao">LinkedIn</a> •
-<a href="mailto:aragao.academico@gmail.com">Email</a>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+</a>
+
+<a href="mailto:aragao.academico@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+</a>
+
 </p>
 
 ---
